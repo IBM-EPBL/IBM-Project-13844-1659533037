@@ -1,6 +1,6 @@
 //https://www.tinkercad.com/things/i6nog5uGY0N - Link For The TinkerCAD Project Smart Home 
 //Assignment - 01 
-//Author :- Dheeraj Prakash . S
+//Author :- Dheeraj Prakash . S (Team Leader)
 #include<Servo.h>
 
 #define myLed 8
